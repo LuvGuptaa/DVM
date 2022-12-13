@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Work Sans', sans-serif;
+
+
+}
+.imgg
+{
+    
+}
+.bg
+{
+    padding: 0 15% 0 15%;
+
+}
+
+h1
+{
+    font-weight: bold;
+}
+.banner
+{
+    display: flex;
+    background-color: white;
+    height: 5rem;
+    padding-top: 1.5rem;
+}
+.banner h1{
+    padding: 0.1rem;
+    text-align: center;
+    padding-right: 7.5rem;
+    font-size: 2rem;
+}
+.b
+{
+    margin-top: 0.1rem;
+    margin-right: 0.3rem;
+}
+.nav
+{
+    display: flex;
+    list-style: none;
+    padding-left: 18%;
+} 
+.nav li 
+{
+    padding: 0.4rem 1rem 1rem 1rem;
+    
+}
+
+
+#contact
+{
+    background-color: rgb(129, 34, 189);
+    height: 2.2rem;
+    border-radius: 10%;
+}
+#contact a{
+    color: white;
+}
+.nav li a
+{
+    text-decoration: none;
+    font-size: 0.8rem;
+    color: rgba(21, 20, 20, 0.736);
+    font-weight: bold;
+}
+.main{
+    margin-top: -10rem;
+}
+.main h1
+{
+    margin-top: 5rem;
+    font-size: 3.5rem;
+    display: flex;
+}
+.pic
+{
+    height: 25rem;
+    width: 19rem;
+    margin-left: 18rem;
+    margin-top: -4rem;
+    background-color: #fff;
+    border-radius: 5%;
+    box-shadow: 0.1px 0.1px 0.5px 0.5px #a19e9e95;
+}
+.main p
+{
+    margin-top: 1.5rem;
+    color: rgba(21, 20, 20, 0.736);
+    font-size: 1rem;
+    margin-top: -10rem;
+}
+.main a
+{
+    text-decoration: none;
+}
+
+.hi
+{
+    text-decoration: none;
+    background-color: rgb(129, 34, 189);
+    height: 2.2rem;
+    border-radius: 10%;
+    width: 6rem;
+    margin-top: 1rem;
+    padding: 0.5rem 0.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+
+}
+.hi a{
+
+    color: white;
+}
+.box
+{
+
+    margin-top: 20rem;
+    border: 0.5px solid;
+    box-shadow: 2px gray;
+    text-align: right;
+}
+.p2
+{
+    height: 20rem;
+    width: 15rem;
+}
+.box h1{
+    display: block;
+}
